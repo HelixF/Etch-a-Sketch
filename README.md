@@ -1,0 +1,1 @@
+Project for building a version of Etch-A-Sketch, by The Odin Project.
