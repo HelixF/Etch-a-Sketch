@@ -1,0 +1,15 @@
+
+#container {
+    padding: 3em;
+    background-color: cornflowerblue;
+    display: grid;
+    grid-template-columns: repeat(16, 20px);
+    grid-template-rows: repeat(16, 20px);
+    justify-content: center;
+}
+
+.gridCell {
+    background-color: coral;
+    /*height: 10px;
+    width: 10px;*/
+}
